@@ -6,12 +6,12 @@
 	<title>UK TERF Entities Boycott List</title>
 	<meta
 		name="description"
-		content="A list of entities that support TERFs and the transphobic movement. Since the Supreme Court ruling, a number of companies have taken to supporting the transphobic judgement and guidance. This is the list of companies that have done so."
+		content="A list of entities that support TERFs and the transphobic movement. Since the Supreme Court ruling, a number of entities have taken to supporting the transphobic judgement and guidance. This is the list of entities that have done so."
 	/>
 	<meta property="og:title" content="UK TERF Entities Boycott List" />
 	<meta
 		property="og:description"
-		content="A list of entities that support TERFs and the transphobic movement. Since the Supreme Court ruling, a number of companies have taken to supporting the transphobic judgement and guidance. This is the list of companies that have done so."
+		content="A list of entities that support TERFs and the transphobic movement. Since the Supreme Court ruling, a number of entities have taken to supporting the transphobic judgement and guidance. This is the list of entities that have done so."
 	/>
 	<meta property="og:type" content="website" />
 	<meta property="og:site_name" content="UK TERF Entities Boycott List" />
