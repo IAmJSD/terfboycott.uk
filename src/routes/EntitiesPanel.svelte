@@ -14,13 +14,13 @@
 	<input
 		type="text"
 		bind:value={query}
-		placeholder="Search for a company..."
-		aria-controls="companies"
+		placeholder="Search for a company or entity..."
+		aria-controls="entities"
 		class="w-full rounded-none border-2 border-gray-300 p-2 focus:border-transparent focus:outline-none focus:ring-2 focus:ring-blue-500 md:rounded-md dark:border-gray-700 dark:bg-gray-800 dark:text-white dark:placeholder-gray-400"
 	/>
 
 	<div
-		id="companies"
+		id="entities"
 		class="mt-0 grid grid-cols-1 md:mt-4 md:grid-cols-2 md:gap-4"
 		aria-live="polite"
 		aria-atomic="true"
