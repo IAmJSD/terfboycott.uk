@@ -15,7 +15,6 @@
 	/>
 	<meta property="og:type" content="website" />
 	<meta property="og:site_name" content="UK TERF Entities Boycott List" />
-	<link rel="icon" href="https://astrid.place/favicon.png" />
 </svelte:head>
 
 <main>
