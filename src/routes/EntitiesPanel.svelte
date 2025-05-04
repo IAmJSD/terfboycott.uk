@@ -3,9 +3,10 @@
 
 	let query = $state("");
 
+	const q = $derived(query.toLowerCase().trim().replace(/ +/g, " "));
 	const filter = $derived(
 		Object.values(data)
-			.filter((company) => company.name.toLowerCase().includes(query.toLowerCase().trim()))
+			.filter((company) => company.name.toLowerCase().includes(q))
 			.sort((a, b) => a.name.localeCompare(b.name)),
 	);
 </script>
